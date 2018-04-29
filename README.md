@@ -10,3 +10,6 @@ Following concepts were implemented in this application:
   <li> Forms & Input</li>
   <li>MongoDB w/ MongoJS</li>
   </ul>
+  
+  This application was build with the help of the below tutorial:
+  <a href="https://www.youtube.com/watch?v=gnsO8-xJ8rs">ExpresssJS Crash Course</a>
